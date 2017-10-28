@@ -1,4 +1,4 @@
 <?php
-  $name = 'Путник';
+  $name = 'Stranger';
 
   require 'index.view.php';
