@@ -17,7 +17,7 @@
       <h1>
         <?php
         if($_GET['name' !== '' ]){
-           $name = $_GET['name']
+           $name = $_GET['name'];
            echo 'Hello, '.$name;
         } else{
            echo "Hello, Stranger";
