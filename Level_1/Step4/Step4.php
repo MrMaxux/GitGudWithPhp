@@ -20,7 +20,7 @@
            $name = $_GET['name']
            echo 'Hello, '.$name;
         } else{
-           echo "Hello, Stranger!";
+           echo "Hello, Stranger";
         }
         ?>
         </h1>
